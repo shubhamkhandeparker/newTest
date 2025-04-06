@@ -1,3 +1,3 @@
 # newTest
-Just Learning git here so technically my first repository \n
+Just Learning git here so technically my first repository <br>
 just doing changes so that i can see what happens in repository  
